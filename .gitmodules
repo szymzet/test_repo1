@@ -1,0 +1,3 @@
+[submodule "the_sub"]
+	path = the_sub
+	url = https://github.com/szymzet/test_subrepo
